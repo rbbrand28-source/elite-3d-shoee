@@ -1,0 +1,12 @@
+elite-3d-shoes/
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.cjs
+├── postcss.config.cjs
+├── src/
+│   ├── index.css
+│   ├── main.jsx
+│   ├── App.jsx
+│   └── components/
+│       └── ShoeCanvas.jsx
